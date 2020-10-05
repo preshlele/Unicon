@@ -1,0 +1,15 @@
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\bin\Debug\exams.exe.config
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\bin\Debug\exams.exe
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\bin\Debug\exams.pdb
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\obj\Debug\exams.csprojResolveAssemblyReference.cache
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\obj\Debug\exams.Form1.resources
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\obj\Debug\exams.Properties.Resources.resources
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\obj\Debug\exams.csproj.GenerateResource.Cache
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\obj\Debug\exams.exe
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\obj\Debug\exams.pdb
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\obj\Debug\exams.add.resources
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\bin\Debug\EntityFramework.dll
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\bin\Debug\EntityFramework.xml
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\presh\documents\visual studio 2015\Projects\exams\exams\obj\Debug\exams.view.resources
